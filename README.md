@@ -4,7 +4,7 @@
  <h1>hey 👋</h1>
  <br> 
   
- I'm DavidTDC3377 <i>(or just David, lol)</I>, a web & game developer based in the UK. 
+ I'm DavidTDC3377 <i>(or just David, lol)</I>, a web & game developer based in Reading, UK. 
    
  I enjoy programming in JavaScript, Luau and more! 
  
@@ -15,6 +15,8 @@
  The name *DavidTDC3377* comes from my (now terminated) Roblox account from 2017. 
 
 TDC and 3377 doesn't really mean anything, it's just a random set of letters and numbers I picked.
+
+I'm also knows as "d4vidthedev".
   
   
  <a id="my-projects"> 
@@ -34,8 +36,6 @@ TDC and 3377 doesn't really mean anything, it's just a random set of letters and
  <h1> 💬 How to contact me </h1>
  <br> 
   
- You can reach me on Telegram as [`@D4vidthedev`](https://t.me/D4vidthedev) or via e-mail: [david@davidstudios.uk](mailto:david@davidstudios.uk) 
-
-**⚠️ NOTE: If you are playing one of our games, and for example you don't have an item when you bought it or the game is buggy, please email [support@davidstudios.uk](mailto:support@davidstudios.uk) for help.**
+ You can reach me on X/Twitter: [`@D4vidthedev`](https://x.com/D4vidthedev) or via e-mail: [david@davidstudios.uk](mailto:david@davidstudios.uk) 
   
 ## Bye for now 👋
