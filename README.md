@@ -34,8 +34,10 @@ I chose *dmx* in the end of 2024 to 'rebrand' my account, as I used *d4vidthedev
   
  Below is a couple of projects I work on: 
   
- * [DoubleSquare](https://github.com/DoubleSquares/) - A development group focused on making good projects *for the people*.
+ * [DoubleSquare](https://github.com/DoubleSquares/) - A development group focused on making good projects *for the people*. *(JavaScript)*
    * [AI, Please!](https://github.com/DoubleSquares/ai-please) - a lightweight JavaScript framework allowing to use multiple AI models, in one script!
+
+ * [DTMF Signal Generator](https://github.com/dmx3377/dtmf-gen) - Generate DTMF (dial pad on a phone) tones quickly and easily. *(Jupyter Notebook/Python)*
   
  Here's a list of older projects (that won't get updates) that other people *still* use: 
   
