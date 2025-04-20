@@ -49,6 +49,7 @@ I chose *dmx* in the end of 2024 to 'rebrand' my account, as I used *d4vidthedev
  You can reach me on X/Twitter: [`@dmx3377`](https://x.com/dmx3377) or Guilded: [guilded.gg/u/d4v1d](https://www.guilded.gg/u/d4v1d)
 
 ## My GitHub stats:
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmx3377&show_icons=true&bg_color=25,ff8c1a,00e68a)
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmx3377&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmx3377)
 
 ## Bye for now 👋
