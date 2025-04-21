@@ -10,9 +10,9 @@
 
 
 Here are my social links if you want them:
-![Static Badge](https://img.shields.io/badge/Join_my-Guilded_server-yellow?style=for-the-badge&logo=guilded&link=https://www.guilded.gg/dmx)
-![Static Badge](https://img.shields.io/badge/Follow_me-on_X-black?style=for-the-badge&logo=x&link=https%3A%2F%2Fx.com%2Fdmx3377)
-![Static Badge](https://img.shields.io/badge/Instagram-on_Instagram?style=for-the-badge&logo=instagram&link=https%3A%2F%2Finstagram.com%2Fdmx_3377)
+[![](https://img.shields.io/badge/Join_my-Guilded_server-yellow?style=for-the-badge&logo=guilded)](https://www.guilded.gg/dmx)
+[![](https://img.shields.io/badge/Follow_me-on_X-black?style=for-the-badge&logo=x)](https://www.x.com/dmx3377)
+[![](https://img.shields.io/badge/Instagram-on_Instagram?style=for-the-badge&logo=instagram)](https://instagram.com/dmx_3377)
 
  
  <a id="why-username"> 
